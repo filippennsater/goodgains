@@ -38,4 +38,47 @@ class PagesController < ApplicationController
 	def legs
 
 	end
+
+
+	//
+
+		def homeEng
+
+	end
+
+	def workoutsEng
+
+	end
+
+	def wallEng
+
+	end
+
+	def aboutEng
+
+	end
+
+
+
+
+
+	def chestEng
+
+	end
+
+	def backEng
+
+	end
+
+	def armsEng
+
+	end
+
+	def shouldersEng
+
+	end
+
+	def legsEng
+
+	end
 end
